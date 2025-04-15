@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" alt="Dev Banner" width="100%" />
+<h1 align="center"> NotGamerPratham </h1><p align="center">
+  
+  <img src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" alt="Dev Banner" width="50%" />
 </p>
 
-<h1 align="center">🌈 NotGamerPratham 🌈</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hey!+I'm+Pratham+%7C+Age:+18;Full+Stack+Developer+%7C+YouTuber+%7C+Gamer;Founder+of+MineHoster+Hosting+☁️;Creator+of+Pratham+Intelligence+🤖;Welcome+to+my+Tech+Universe+🚀" />
