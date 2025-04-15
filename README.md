@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ebd62a.gif" alt="Dev Banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" alt="Dev Banner" width="100%" />
 </p>
 
 <h1 align="center">🌈 NotGamerPratham 🌈</h1>
