@@ -12,6 +12,7 @@
 
 ### 👨‍💻 About Me
 
+```yaml
 Username: NotGamerPratham
 Name: Pratham
 Age: 18
@@ -25,6 +26,7 @@ Roles:
 ⚙️ MineHoster – Game Server Hosting Platform
 📡 Dashboard
 💬 Discord Server
+```
 
 🧠 Pratham Intelligence – Custom AI System Built by Me
 
