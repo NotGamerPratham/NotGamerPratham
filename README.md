@@ -1,4 +1,4 @@
-<h1 align="center"> NotGamerPratham <img src="https://cdn.discordapp.com/attachments/1328020369080324157/1361593757589307502/pack_logo.png?ex=67ff5280&is=67fe0100&hm=953a426bb557c2c5db82e79deab0d36e2eb8953cc1855f875651882a2b060051&" width="10%"> </h1><p align="center">
+<h1 align="center"> NotGamerPratham <img src="https://cdn.discordapp.com/attachments/1328020369080324157/1361593757589307502/pack_logo.png?ex=67ff5280&is=67fe0100&hm=953a426bb557c2c5db82e79deab0d36e2eb8953cc1855f875651882a2b060051&" width="5%"> </h1><p align="center">
   
   <img src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" alt="Dev Banner" width="50%" />
 </p>
