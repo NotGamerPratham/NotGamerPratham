@@ -1,31 +1,4 @@
-  <style>
-    body {
-      background: #0d1117;
-      color: white;
-      font-family: 'Fira Code', monospace;
-      margin: 0;
-      padding: 20px;
-      text-align: center;
-    }
-
-    .rgb-name {
-      background: linear-gradient(270deg, red, orange, yellow, green, cyan, blue, violet, red);
-      background-size: 1000% 1000%;
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      color: transparent;
-      font-weight: bold;
-      font-size: 48px;
-      animation: rgbflow 8s ease infinite;
-    }
-
-    @keyframes rgbflow {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
-  </style>
-  <h1 class="rgb-name" align="centre">NotGamerPratham</h1>
+  <h1 align="centre">NotGamerPratham</h1>
   <p>
     <img src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" alt="Dev Banner" width="50%" />
   </p>
