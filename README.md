@@ -1,4 +1,22 @@
-<h1 align="center"> <img src="https://cdn.discordapp.com/attachments/1328020369080324157/1361593757589307502/pack_logo.png?ex=67ff5280&is=67fe0100&hm=953a426bb557c2c5db82e79deab0d36e2eb8953cc1855f875651882a2b060051&" width="3%"> NotGamerPratham <img src="https://cdn.discordapp.com/attachments/1328020369080324157/1361593757589307502/pack_logo.png?ex=67ff5280&is=67fe0100&hm=953a426bb557c2c5db82e79deab0d36e2eb8953cc1855f875651882a2b060051&" width="3%"> </h1><p align="center">
+<h1 align="center" class="rgb-name">NotGamerPratham</h1><p align="center">
+<style>
+.rgb-name {
+  background: linear-gradient(270deg, red, orange, yellow, green, cyan, blue, violet, red);
+  background-size: 1000% 1000%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: rgbflow 8s ease infinite;
+  font-weight: bold;
+  font-size: 18px;
+  display: inline-block;
+}
+
+@keyframes rgbflow {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
   
   <img src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" alt="Dev Banner" width="50%" />
 </p>
