@@ -1,10 +1,12 @@
   <h1 align="center">NotGamerPratham</h1>
-  <p>
-    <img align="center" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" alt="Dev Banner" width="50%" />
-  </p>
-  <p>
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hey!+I'm+Pratham+%7C+Age:+18;Full+Stack+Developer+%7C+YouTuber+%7C+Gamer;Ethical+Hacker;Founder+of+MineHoster+Hosting+☁️;Creator+of+Pratham+Intelligence+🤖;Welcome+to+my+Tech+Universe+🚀" />
-  </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hey!+I'm+Pratham+%7C+Age:+18;Full+Stack+Developer+%7C+YouTuber+%7C+Gamer;Founder+of+MineHoster+Hosting;Creator+of+Pratham+Intelligence;Welcome+to+my+Tech+Universe" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Professional%20Developer-%F0%9F%92%BB-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
