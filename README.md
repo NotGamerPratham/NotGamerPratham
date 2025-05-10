@@ -1,4 +1,4 @@
-  <h1 align="centre">NotGamerPratham</h1>
+  <h1 style="text-align: center;>NotGamerPratham</h1>
   <p>
     <img src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" alt="Dev Banner" width="50%" />
   </p>
