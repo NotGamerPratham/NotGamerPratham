@@ -1,36 +1,4 @@
-<h1 align="center" class="rgb-name" style=".rgb-name {
-  background: linear-gradient(270deg, red, orange, yellow, green, cyan, blue, violet, red);
-  background-size: 1000% 1000%;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: rgbflow 8s ease infinite;
-  font-weight: bold;
-  font-size: 18px;
-  display: inline-block;
-}
-
-@keyframes rgbflow {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}">NotGamerPratham</h1><p align="center">
-.rgb-name {
-  background: linear-gradient(270deg, red, orange, yellow, green, cyan, blue, violet, red);
-  background-size: 1000% 1000%;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: rgbflow 8s ease infinite;
-  font-weight: bold;
-  font-size: 18px;
-  display: inline-block;
-}
-
-@keyframes rgbflow {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-  
+<h1 align="center" class="rgb-name"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&center=true&vCenter=true&width=600&height=50&lines=NotGamerPratham;RGB+Animated+Username+%F0%9F%94%A5" /></h1><p align="center">
   <img src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" alt="Dev Banner" width="50%" />
 </p>
 
