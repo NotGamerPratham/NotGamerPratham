@@ -1,10 +1,10 @@
 <h1 align="center">NotGamerPratham</h1>
 <p align="center">
-  <img src="https://camo.githubusercontent.com/8474282b266f4488825a5ff9333ecc272be53f2ca9f1e4eb304e73646a64c395/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313335382f312a6752654c5236685a6a77794278486d664c4e314156772e676966" alt="Dev Banner" width="50%" />
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Dev Banner" width="50%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hey!+I'm+Pratham+%7C+Age:+18;Full+Stack+Developer+%7C+YouTuber+%7C+Gamer;Founder+of+MineHoster+Hosting+☁️;Creator+of+Pratham+Intelligence+🤖;Welcome+to+my+Tech+Universe+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hey!+I'm+Pratham+%7C+Age:+19;Full+Stack+Developer+%7C+YouTuber+%7C+Gamer;Founder+of+MineHoster+Hosting+☁️;Creator+of+Pratham+Intelligence+🤖;Welcome+to+my+Tech+Universe+🚀" />
 </p>
 
 <p align="center">
