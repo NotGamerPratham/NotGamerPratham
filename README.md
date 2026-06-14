@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hey!+I'm+Pratham+%7C+Age:+19;Full+Stack+Developer+%7C+YouTuber+%7C+Gamer;Founder+of+MineHoster+Hosting+☁️;Creator+of+Pratham+Intelligence+🤖;Welcome+to+my+Tech+Universe+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hey!+I'm+Pratham+%7C+Age:+19;Full+Stack+Developer+%7C+YouTuber+%7C+Gamer;Founder+of+NGP Cloud+Hosting+☁️;Creator+of+Pratham+Intelligence+🤖;Welcome+to+my+Tech+Universe+🚀" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ Roles:
   - 💻 Full Stack Developer
   - 🎮 Gamer
   - 📹 YouTuber
-  - ☁️ Hosting Company Owner (MineHoster)
+  - ☁️ Hosting Company Owner (NGP Cloud)
   - 🤖 AI Creator (Pratham Intelligence)
 🚀 Projects & Work
 ⚙️ MineHoster – Game Server Hosting Platform
