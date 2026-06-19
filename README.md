@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Professional%20Developer?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Professional%20Developer&logo=github&logoColor=white" />
 </p>
 
 ---
